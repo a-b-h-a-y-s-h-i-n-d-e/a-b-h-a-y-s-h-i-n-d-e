@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🐧 Fedora 41 User - speaking CLI better than English
+- 🐧 Linux mint User - speaking CLI better than English
 - 🤖 Training neural nets until they debug their own existence
 - 🌱 Learning Deep Learning while teaching GPUs to sweat
 
