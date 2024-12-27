@@ -6,7 +6,7 @@
 
 ## Featured Projects 🚀
 - 🎨 [PainbrushAI](https://paintbrushai.streamlit.app) - Where AI meets art, and art meets fun
-- 👾 [ChatBot](https://chatbot-lamini.vercel.app) - Based on Flan-T5 LLM
+- 👾 [ChatBot](https://huggingface.co/spaces/ZapBot/ChatBot) - Based on Flan-T5 LLM
 - 📑 [AskPDF](https://huggingface.co/spaces/ZapBot/AskPDF) - Ask Anything from Your PDFs, Powered by AI.
 
 
