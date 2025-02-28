@@ -5,7 +5,7 @@
 - 🌱 Learning Deep Learning while teaching GPUs to sweat
 
 ## Featured Projects 🚀
-- 🎨 [PainbrushAI](https://paintbrushai.streamlit.app) - Where AI meets art, and art meets fun
+- 🎨 [PainbrushAI](https://huggingface.co/spaces/ZapBot/paintbrushai) - Where AI meets art, and art meets fun
 - 🛰️ [GeoRoadExtract](https://github.com/a-b-h-a-y-s-h-i-n-d-e/GeoRoadExtract) - extracting pathways from satellite images
 - 👾 [ChatBot](https://huggingface.co/spaces/ZapBot/ChatBot) - Based on Flan-T5 LLM
 
